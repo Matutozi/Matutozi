@@ -8,8 +8,7 @@ I'm an engineering student passionate about coding and embedded systems. I enjoy
 ### 🌱 I’m currently learning:
 - **Advanced Django** concepts such as Server-Sent Events (SSE) for real-time updates and regex handling.
 - **Embedded systems** with a focus on integration between software and hardware.
-- **Vercel** deployment strategies for cloud-based projects.
-- **embedded systems** microcontrollers and microprocessors
+- **embedded systems** using microcontrollers[arduino, esp32 and raspberry pico] and microprocessors
 
 ### 👯 I’m looking to collaborate on:
 - Embedded systems projects, especially those combining **IoT** and **real-time data processing**.
