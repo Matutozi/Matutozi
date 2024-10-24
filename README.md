@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi there 👋 I'm Emmanuel Sobowale
 
-<!--
-**Matutozi/Matutozi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an engineering student passionate about coding and embedded systems. I enjoy building projects that merge software with hardware and love solving real-world problems through technology.
 
-Here are some ideas to get you started:
+### 🔭 I’m currently working on:
+- A **social media API** using **Django REST Framework**, featuring posts, hashtags, real-time messaging, and in-app notifications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 I’m currently learning:
+- **Advanced Django** concepts such as Server-Sent Events (SSE) for real-time updates and regex handling.
+- **Embedded systems** with a focus on integration between software and hardware.
+- **Vercel** deployment strategies for cloud-based projects.
+- **embedded systems** microcontrollers and microprocessors
+
+### 👯 I’m looking to collaborate on:
+- Embedded systems projects, especially those combining **IoT** and **real-time data processing**.
+- Django-based APIs with a focus on social media applications.
+- build IOT solutions
+
+### 💬 Ask me about:
+- Building **REST APIs** with Django REST Framework.
+- Implementing **user authentication** with access tokens.
+- Working with **real-time data** using **Django Channels** and **Server-Sent Events (SSE)**.
+
+### 📫 How to reach me:
+- Email: [sobowalegz2@gmail.com](mailto:sobowalegz2@gmail.com)
+- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/emmanuel-sobowale-920990200)
+
+### 😄 Pronouns:
+- He/Him
