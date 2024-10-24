@@ -23,7 +23,7 @@ I'm an engineering student passionate about coding and embedded systems. I enjoy
 
 ### 📫 How to reach me:
 - Email: [sobowalegz2@gmail.com](mailto:sobowalegz2@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/emmanuel-sobowale-920990200)
+- LinkedIn: [www.linkedin.com/in/emmanuel-sobowale-920990200]
 
 ### 😄 Pronouns:
 - He/Him
