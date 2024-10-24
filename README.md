@@ -2,6 +2,12 @@
 
 I'm an engineering student passionate about coding and embedded systems. I enjoy building projects that merge software with hardware and love solving real-world problems through technology.
 
+#### Top Repositories
+
+<a href="https://github.com/Matutozi/full-featured-social-media-djangorest--application">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Matutozi&repo=full-featured-social-media-djangorest--application&theme=dark" />
+</a>
+
 ### 🔭 I’m currently working on:
 - A **social media API** using **Django REST Framework**, featuring posts, hashtags, real-time messaging, and in-app notifications.
 
@@ -35,11 +41,7 @@ I'm an engineering student passionate about coding and embedded systems. I enjoy
 | <a href="https://github.com/Matutozi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Matutozi&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Emmanuel's GitHub stats" /></a> | <a href="https://github.com/Matutozi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matutozi&layout=compact&theme=dark&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-#### Top Repositories
 
-<a href="https://github.com/Matutozi/full-featured-social-media-djangorest--application">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Matutozi&repo=full-featured-social-media-djangorest--application&theme=dark" />
-</a>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Matutozi&theme=dark&hide_border=true)
 
