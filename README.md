@@ -8,9 +8,6 @@ I'm an engineering student passionate about coding and embedded systems. I enjoy
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Matutozi&repo=full-featured-social-media-djangorest--application&theme=dark" />
 </a>
 
-### 🔭 I’m currently working on:
-- A **social media API** using **Django REST Framework**, featuring posts, hashtags, real-time messaging, and in-app notifications.
-
 ### 🌱 I’m currently learning:
 - **Advanced Django** concepts such as Server-Sent Events (SSE) for real-time updates and regex handling.
 - **Embedded systems** with a focus on integration between software and hardware.
@@ -21,11 +18,6 @@ I'm an engineering student passionate about coding and embedded systems. I enjoy
 - Embedded systems projects, especially those combining **IoT** and **real-time data processing**.
 - Django-based APIs with a focus on social media applications.
 - Building **IoT solutions**.
-
-### 💬 Ask me about:
-- Building **REST APIs** with Django REST Framework.
-- Implementing **user authentication** with access tokens.
-- Working with **real-time data** using **Django Channels** and **Server-Sent Events (SSE)**.
 
 ### 📫 How to reach me:
 - Email: [sobowalegz2@gmail.com](mailto:sobowalegz2@gmail.com)
